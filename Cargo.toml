@@ -1,6 +1,6 @@
 [package]
 name = "real_c_string"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Лач <iam@lach.pw>"]
 edition = "2018"
 description = "Generate string parseable in compiled binary"
